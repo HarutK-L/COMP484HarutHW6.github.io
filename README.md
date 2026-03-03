@@ -1,1 +1,1 @@
-https://github.com/HarutK-L/COMP484HarutHW6.github.io.git
+https://harutk-l.github.io/COMP484HarutHW6.github.io/
